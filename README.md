@@ -22,3 +22,21 @@ Basic usage:
    - logs/negative_alerts.log
    - output/daily_feedback_report.txt
    - the console output for the dashboard.
+
+5. Check outputs:
+
+- Console: simple dashboard with sentiment and category stats.
+- `logs/negative_alerts.log`: list of negative feedback and urgent alerts.
+- `output/daily_feedback_report.txt`: daily report with summary and suggestions.
+
+---
+
+Customization Ideas
+
+- Extend the positive and negative keyword dictionaries to better fit e‑commerce and Flipkart‑style language.
+- Add more detailed categories (for example: Product Quality Issue, Packaging Issue).
+- Add date filters to process only today’s feedback.
+- Export the report as CSV or integrate it into a simple web dashboard using Flask or Streamlit.
+- Schedule the script using cron (Linux) or Task Scheduler (Windows) for automatic daily runs.
+
+
