@@ -1,1 +1,7 @@
-
+timestamp,customer_id,message
+2025-12-21 14:00:00,CUST010,Fast delivery and smooth ordering experience
+2025-12-21 14:25:30,CUST011,Payment failed but money was deducted from my account
+2025-12-21 14:50:15,CUST012,Refund is still pending, very unhappy
+2025-12-21 15:15:40,CUST013,App keeps crashing when I place an order
+2025-12-21 15:40:05,CUST014,Website is slow and pages do not load properly
+2025-12-21 16:05:20,CUST015,Overall good service and easy to use app
