@@ -28,6 +28,12 @@ Basic usage:
 - Console: simple dashboard with sentiment and category stats.
 - `logs/negative_alerts.log`: list of negative feedback and urgent alerts.
 - `output/daily_feedback_report.txt`: daily report with summary and suggestions.
+#Make sure inputs exist:
+
+text
+data/feedback_today.txt
+data/chat_logs.txt
+data/email_feedback.csv
 
 ---
 
