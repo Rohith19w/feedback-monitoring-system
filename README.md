@@ -36,6 +36,24 @@ Basic usage:
 -data/email_feedback.csv
 
 ---
+# structure:
+feedback_monitoring_system/
+│
+├── main.py
+│
+├── data/
+│ ├── feedback_today.txt
+│ ├── chat_logs.txt
+│ └── email_feedback.csv
+│
+├── logs/
+│ └── negative_alerts.log # auto‑created
+│
+├── output/
+│ └── daily_feedback_report.txt # auto‑created
+│
+└── README.md
+---
 
 Customization Ideas
 
