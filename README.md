@@ -31,10 +31,9 @@ Basic usage:
 ---
 # Make sure inputs exist:
 
-text
-data/feedback_today.txt
-data/chat_logs.txt
-data/email_feedback.csv
+-data/feedback_today.txt
+-data/chat_logs.txt
+-data/email_feedback.csv
 
 ---
 
