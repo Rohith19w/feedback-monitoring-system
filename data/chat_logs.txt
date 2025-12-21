@@ -1,1 +1,5 @@
-
+2025-12-21 12:05:10|CUST006|Customer care is not responding to my calls
+2025-12-21 12:25:45|CUST007|Support team helped me quickly, thanks
+2025-12-21 12:50:00|CUST008|Return request not accepted, very bad service
+2025-12-21 13:10:30|CUST009|Live chat is slow but issue was resolved
+2025-12-21 13:35:55|CUST006|I called again and still no proper support
