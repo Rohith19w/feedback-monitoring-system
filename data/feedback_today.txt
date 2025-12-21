@@ -1,1 +1,6 @@
-
+2025-12-21 09:10:15|CUST001|Excellent delivery service, on time as promised
+2025-12-21 09:45:30|CUST002|Delivery delayed by 4 days, very disappointed
+2025-12-21 10:05:50|CUST003|Package arrived late and the box was damaged
+2025-12-21 10:30:00|CUST004|Good product quality and fast service
+2025-12-21 11:15:20|CUST005|Order not delivered yet, poor experience
+2025-12-21 11:40:10|CUST001|Second time my order is delayed, not happy
