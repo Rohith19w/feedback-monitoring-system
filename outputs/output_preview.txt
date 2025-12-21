@@ -1,0 +1,46 @@
+Flipkart Daily Customer Feedback Report
+Generated: 2025-12-21 12:17:31
+Total feedback: 17
+------------------------------------------------------------
+Positive:   4 ( 23.5%)
+Neutral:    8 ( 47.1%)
+Negative:   5 ( 29.4%)
+------------------------------------------------------------
+Top categories:
+Uncategorized                6 ( 35.3%)
+General Appreciation         3 ( 17.6%)
+Delivery Delay               2 ( 11.8%)
+Service Issue                2 ( 11.8%)
+Billing Problem              2 ( 11.8%)
+App/Website Issue            2 ( 11.8%)
+------------------------------------------------------------
+Sample comments:
+[General Appreciation]
+- Excellent delivery service, on time as promised
+- Good product quality and fast service
+- Fast delivery and smooth ordering experience
+
+[Delivery Delay]
+- Delivery delayed by 4 days, very disappointed
+- Order not delivered yet, poor experience
+
+[Uncategorized]
+- Package arrived late and the box was damaged
+- Second time my order is delayed, not happy
+- Support team helped me quickly, thanks
+
+[Service Issue]
+- Customer care is not responding to my calls
+- Return request not accepted, very bad service
+
+[Billing Problem]
+- Payment failed but money was deducted from my account
+- Refund is still pending
+
+[App/Website Issue]
+- App keeps crashing when I place an order
+- Website is slow and pages do not load properly
+
+------------------------------------------------------------
+Suggestions:
+- Maintain current operations and continue monitoring feedback trends.
