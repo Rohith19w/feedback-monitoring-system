@@ -3,6 +3,8 @@ Real-Time Customer Feedback Analyzer & Sentiment Monitoring
 
 Python-based rule‑based sentiment analysis and service issue monitoring system, built as Task‑3 for the Python Internship at Flipkart Pvt Ltd. The tool reads customer feedback from multiple sources, scores sentiment, categorizes issues, raises alerts for negative feedback, and generates a daily summary report.
 
+# demo video link : https://drive.google.com/file/d/1Zfnik_dwa7BJfpbnkKcmFsB94TCc-aE4/view?usp=sharing
+
 Main features:
 - Reads feedback from feedback_today.txt, chat_logs.txt, email_feedback.csv
 - Rule-based sentiment analysis: +1 / 0 / -1, Positive / Neutral / Negative
